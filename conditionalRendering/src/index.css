@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #242424;
+}
+
+.btn{
+  /* display: flex;
+  justify-content: center;  
+  align-items: center;       */
+  height: 70px;
+  width: 80px;
+  color: white;
+  border-color: azure;
+}
